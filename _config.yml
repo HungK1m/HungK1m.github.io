@@ -14,8 +14,8 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "anhphtu"
-image: /thumbnail-jumbo.png
+author: ""
+image: 
 twitter:
-  username: anh_ph_tu
+  username: 
 #  site:
